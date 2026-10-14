@@ -1,0 +1,36 @@
+Claude World-Class App Team — Source-Available License v1.0
+Copyright (c) 2026 Christian (@aranacj). All rights reserved.
+
+1. Permission. You may access, download, copy, and use unmodified copies of this
+   repository and its included Claude Code skills, agents, documentation and
+   installation scripts, including for personal or commercial application
+   development. You may install unmodified copies in your own projects and
+   create applications using them. Your applications and independently authored
+   project code are not subject to this license merely because you used this
+   toolkit.
+
+2. Restrictions. You may not modify, adapt, translate, create derivative works
+   of, redistribute modified copies of, sublicense, sell, or relicense the
+   toolkit or any of its included files without the copyright holder's prior
+   written permission. You may redistribute the unmodified toolkit only if
+   you retain this LICENSE, all copyright notices, and attribution. You may
+   not misrepresent the author or imply that you created the toolkit.
+
+3. Project integration. This license does not restrict modifications to files
+   independently created by you or your application team. Instructions added
+   by the installer to your own pre-existing CLAUDE.md remain yours; however,
+   copied text from the toolkit itself may not be modified or redistributed
+   in modified form without permission. You may remove toolkit files from an
+   installation at any time.
+
+4. No trademark grant. The license does not grant rights to the author's
+   name, brand, logos or trademarks except factual attribution.
+
+5. Disclaimer. THE TOOLKIT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE OR NONINFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE
+   COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR CLAIMS OR DAMAGES ARISING FROM USE.
+
+This is a source-available, no-modifications license, not an OSI-approved
+open-source license. For modification permission contact the copyright holder
+through their GitHub profile: https://github.com/aranacj .
